@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">m3Homework1.2</string>
+    <string name="normal">NORMAL</string>
+    <string name="waroeng_down">WAROENG DOWN</string>
+    <string name="booking_details">Booking details</string>
+    <string name="manue_package">Manue package</string>
+    <string name="_28_june_8pm">28 June 8PM</string>
+    <string name="_25_kursi">25 kursi</string>
+    <string name="date_and_time">Date and Time</string>
+    <string name="jumlah_kursi">Jumlah kursi</string>
+    <string name="_2_pieces">2 Pieces</string>
+    <string name="pizza">Pizza</string>
+    <string name="price">Price</string>
+    <string name="_2x_pizza_41_00">2x PIZZA $41.00</string>
+    <string name="todo">TODO</string>
+</resources>
